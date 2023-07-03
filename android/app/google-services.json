@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "475387043639",
+    "project_id": "monorailsimulation",
+    "storage_bucket": "monorailsimulation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475387043639:android:cdfb38a427af5d2cb704b2",
+        "android_client_info": {
+          "package_name": "com.example.monorail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475387043639-daqpg0rhlbns3odt6i9n0gecieitv16f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7_J_90qYyLenP8ba4xIGfi3epZqBSBiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475387043639-daqpg0rhlbns3odt6i9n0gecieitv16f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
